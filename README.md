@@ -10,6 +10,8 @@ The first five rows of the scaled DataFrame should appear as follows:
 The first five rows of the scaled DataFrame
 Find the Best Value for k Using the Original Scaled DataFrame
 Use the elbow method to find the best value for k using the following steps:
+![image](https://user-images.githubusercontent.com/109754188/224519198-f7f322fc-e97f-48a6-a102-4cabb4be1639.png)
+
 
 Create a list with the number of k values from 1 to 11.
 Create an empty list to store the inertia values.
@@ -37,6 +39,7 @@ What is the total explained variance of the three principal components?
 Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
 The first five rows of the PCA DataFrame should appear as follows:
+![image](https://user-images.githubusercontent.com/109754188/224519210-3df05e78-2b9f-4fab-8ad0-1d4bbd37c5be.png)
 
 The first five rows of the PCA DataFrame
 Find the Best Value for k Using the PCA Data
